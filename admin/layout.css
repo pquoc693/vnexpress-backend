@@ -1,0 +1,5 @@
+#hangTieuDe{background-color:#09F; color: white; font-size: 24px;padding: 10px;}
+#hang2 a{width: 150px; background-color: blue;color: white;padding: 10px;font-weight: bold;display: block;float: left;margin-right: 5px; text-align: center;}
+/* display:block --> để từng thẻ là một khối */
+/* float:left --> để các khối liền kề với nhau */
+#hang2 a:hover{background-color: tomato;}
